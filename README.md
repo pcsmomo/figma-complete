@@ -39,3 +39,10 @@ Short Cuts\
 
 - Shift + 1 : Zoom to fit
 - Z + Drag : Zoom the selected area
+
+### 22. Images & Overlays
+
+[Unsplash](https://unsplash.com/)
+
+1. Using Crop tool
+2. Fill the image
