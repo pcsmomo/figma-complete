@@ -32,3 +32,10 @@ Option + Command + C : Copy Properties
 -> Option + Command + V : Paste Properties
 
 Object -> Outline Stroke : Split layer for only stroke
+
+### 21. Setting Up Our Frames
+
+Short Cuts\
+
+- Shift + 1 : Zoom to fit
+- Z + Drag : Zoom the selected area
