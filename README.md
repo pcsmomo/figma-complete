@@ -46,3 +46,9 @@ Short Cuts\
 
 1. Using Crop tool
 2. Fill the image
+
+### 23. Adding Icons
+
+SVG is good for icons
+
+[Flat Icon - + 5.2M icons](https://www.flaticon.com/)
