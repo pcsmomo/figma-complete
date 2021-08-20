@@ -60,18 +60,31 @@ SVG is good for icons
 > - Command + Click : Select component inside a group
 > - Ctrl + C : Color picker
 
-##### Color Scheme Template
+#### Color Scheme Template
 
 https://www.figma.com/file/jCiZQ2pEXvebshjp4InpS4/Color-Scheme?node-id=0%3A1
 
-##### Good Color Reads:
+#### Good Color Reads:
 
 1. https://www.invisionapp.com/inside-design/website-color-schemes/
 2. https://www.oberlo.ca/blog/color-psychology-color-meanings
 
-##### Color Scheme Resources:
+#### Color Scheme Resources:
 
 - https://colordrop.io/
 - https://colorsinspo.com/
 - https://color.adobe.com/
 - https://coolors.co/
+
+### 26. Tutorial Page
+
+#### Trick
+
+1. Copy everything from Login to Tutorial
+2. Create rectangle upon them, make it opacity 55% and blur 6 effect
+   - It is the based
+3. Start Tutorial page
+
+> **Short Cuts**
+>
+> - Opt + L : Collapse layer
