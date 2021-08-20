@@ -88,3 +88,17 @@ https://www.figma.com/file/jCiZQ2pEXvebshjp4InpS4/Color-Scheme?node-id=0%3A1
 > **Short Cuts**
 >
 > - Opt + L : Collapse layer
+
+### 27. Components - Powerful!!
+
+### 30. Using Variants to Create Component Groups
+
+Make Button/Enabled and Button/Disabled to Variant
+
+- State
+  - Enabled
+  - Pressed
+  - Disbled
+- Size
+  - Large
+  - Small
