@@ -102,3 +102,13 @@ Make Button/Enabled and Button/Disabled to Variant
 - Size
   - Large
   - Small
+
+### 32. Exploring Variants Even More
+
+[Figma Variants Playground](https://www.figma.com/community/file/903303571898472063)
+
+Duplicate : https://www.figma.com/file/RUufxCLT4UGVAcowjbGACX/Figma-Variants-Playground-(Community)?node-id=1017%3A0
+
+### 33. Payment Page
+
+[App Layout - Categorised](https://pttrns.com/)
