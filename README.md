@@ -112,3 +112,28 @@ Duplicate : https://www.figma.com/file/RUufxCLT4UGVAcowjbGACX/Figma-Variants-Pla
 ### 33. Payment Page
 
 [App Layout - Categorised](https://pttrns.com/)
+
+### 39. Using Templates
+
+#### Figma Template Resources:
+
+- https://www.figma.com/templates/
+- https://www.figmaresources.com/
+- https://www.figmacrush.com/
+
+#### Apple Design Resources:
+
+https://developer.apple.com/design/resources/
+
+#### Material Design Resources:
+
+https://www.figma.com/@materialdesign
+
+Import iPhone Sketch and install SF Symbols
+
+- https://developer.apple.com/design/resources/
+
+> **Short Cuts**
+>
+> - Command + [ : Move object Down
+> - Command + ] : Move object Up
