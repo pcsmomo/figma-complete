@@ -161,3 +161,12 @@ Google Sheets Plugin
 |  Bob's Laundry   |  April 21st, 2020 at 4:45 PM   |    $0.00    | Cancelled |  10   |
 |   Wow Washers    | February 12th, 2020 at 9:36 AM |   $33.24    | Completed |  35   |
 | Amazing Cleaners | January 18th, 2020 at 1:32 PM  |    $4.56    | Completed |   3   |
+
+### 51. Finding Custom Fonts to Use
+
+- https://www.figma.com/downloads/
+- https://fontpair.co/
+- https://fonts.google.com/
+- https://fonts.adobe.com/fonts
+
+Download Rubik and Karla from fontpair and install them on my system
