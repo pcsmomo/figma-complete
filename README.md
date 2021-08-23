@@ -187,3 +187,16 @@ Rubik and Karla
 > **Short Cuts**
 >
 > - Option + Command + G : Make selected components to Frame
+
+### 58. Testing on a Real Device
+
+- Share Prototype
+- Figma Mirror App
+
+### 61. Creating Exports
+
+We can export frame and component from right/bottom export option.
+
+> **Short Cuts**
+>
+> - Command + Shift + E : Export history
