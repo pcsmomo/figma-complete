@@ -137,3 +137,27 @@ Import iPhone Sketch and install SF Symbols
 >
 > - Command + [ : Move object Down
 > - Command + ] : Move object Up
+
+### 47. Profile Page
+
+Install Avatars plugin by Dylan Feltus
+
+### 50. Adding Sample Data from Google Sheets
+
+Google Sheets Plugin
+
+1. Install Google Sheets Plugin
+2. Rename text field to #store_name
+3. Select #Service frame
+4. Paste this address, `https://docs.google.com/spreadsheets/d/1ALYqGyhtueUw1nPf1Lc3SRCTxAxhMbiOJMEu7liEwlg/edit#gid=0`
+5. Choose "Update current page only"
+6. Fetch & Sync
+7. Ta-Da
+
+|    store_name    |              date              | total_price |  status   | items |
+| :--------------: | :----------------------------: | :---------: | :-------: | :---: |
+| Amazing Cleaners |    May 2nd, 2020 at 2:00 PM    |   $14.56    |  Drying   |  12   |
+|  John's Washing  |  April 22nd, 2020 at 4:30 PM   |   $23.54    | Completed |  25   |
+|  Bob's Laundry   |  April 21st, 2020 at 4:45 PM   |    $0.00    | Cancelled |  10   |
+|   Wow Washers    | February 12th, 2020 at 9:36 AM |   $33.24    | Completed |  35   |
+| Amazing Cleaners | January 18th, 2020 at 1:32 PM  |    $4.56    | Completed |   3   |
