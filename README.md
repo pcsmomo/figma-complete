@@ -170,3 +170,20 @@ Google Sheets Plugin
 - https://fonts.adobe.com/fonts
 
 Download Rubik and Karla from fontpair and install them on my system
+
+### 52. Creating Text Styles
+
+Rubik and Karla
+
+- Heading: Rubik
+- Body: Karla
+
+### 57. Scrolling in Prototypes
+
+1. Select the Frame
+2. Prototype
+3. Overflow Scrolling
+
+> **Short Cuts**
+>
+> - Option + Command + G : Make selected components to Frame
