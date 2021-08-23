@@ -200,3 +200,31 @@ We can export frame and component from right/bottom export option.
 > **Short Cuts**
 >
 > - Command + Shift + E : Export history
+
+### 62. Code Handoff
+
+I can actually see the css for each components from the right inspect/code panel.
+
+```css
+ {
+  /* #date */
+
+  position: absolute;
+  width: 233px;
+  height: 24px;
+  left: 17px;
+  top: calc(50% - 24px / 2 + 13.5px);
+
+  /* Body - Karla 14 pt */
+
+  font-family: Karla;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+
+  color: #585858;
+}
+```
