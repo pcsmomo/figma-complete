@@ -228,3 +228,10 @@ I can actually see the css for each components from the right inspect/code panel
   color: #585858;
 }
 ```
+
+### 64. Starting with a Template
+
+Resources used in the template:
+
+https://www.figma.com/community/file/809541985019767955
+https://www.figmafinder.com/free-charts-for-figma/
