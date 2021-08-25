@@ -235,3 +235,13 @@ Resources used in the template:
 
 https://www.figma.com/community/file/809541985019767955
 https://www.figmafinder.com/free-charts-for-figma/
+
+### 65. Login Page
+
+Unsplash Plugin
+
+### 68. Auto-Layout
+
+Select two or more items and Auto-Layout.
+
+It will become a group and can arrange layout automatically with gab or margin.
