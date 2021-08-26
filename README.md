@@ -245,3 +245,11 @@ Unsplash Plugin
 Select two or more items and Auto-Layout.
 
 It will become a group and can arrange layout automatically with gab or margin.
+
+### 69. Adding Sample Data
+
+Plugin Content Reel
+
+> **Short Cuts**
+>
+> [Select layers and objects](https://help.figma.com/hc/en-us/articles/360040449873-Select-layers-and-objects)
